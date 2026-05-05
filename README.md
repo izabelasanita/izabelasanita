@@ -43,16 +43,6 @@ Base analítica aplicada à Segurança Defensiva.
 
 ---
 
-## 🧪 Current Labs
-
-📡 Captura e análise de pacotes  
-🔎 Varreduras controladas com Nmap  
-🐧 Simulação de administração Linux em VMs  
-🛡️ Laboratórios práticos no TryHackMe  
-📄 Produção de write-ups técnicos estruturados  
-
----
-
 ## 🛠️ Toolkit
 
 <p align="center">
@@ -79,9 +69,7 @@ Base analítica aplicada à Segurança Defensiva.
 
 ## 🏆 Conquistas
 
-🛡️ TryHackMe: https://tryhackme.com/p/mindpeople0409  
-📝 Write-ups técnicos publicados  
-📚 Estudo contínuo e estruturado em Segurança Defensiva  
+🛡️ TryHackMe: https://tryhackme.com/p/mindpeople0409    
 
 ---
 
